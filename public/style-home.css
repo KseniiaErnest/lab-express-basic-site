@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  background-color: blueviolet;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #fff;
+}
+
+a:link, a:active {
+  color: #fff;
+}
+a:hover, a:visited {
+  color: #fff;
+}

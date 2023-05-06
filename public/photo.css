@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 100%;
+}
+
+body {
+  background-color: yellowgreen;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #000000;
+}
+
+img {
+  width: 30rem;
+}
